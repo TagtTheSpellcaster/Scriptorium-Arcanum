@@ -1,12 +1,10 @@
 # Scriptorium Arcanum
 
-![Versione](https://img.shields.io/badge/brevetto%20meccanico-1.0.1-b08a45)
+![Versione](https://img.shields.io/badge/versione-1.0.2-b08a45)
 ![Formato](https://img.shields.io/badge/formato-HTML%20singolo-lightgrey)
 ![Rete](https://img.shields.io/badge/rete-non%20necessaria-lightgrey)
 
-Piccola storia pratica della crittografia, in un unico file HTML: cinque cifrari da provare con le mani, pensati per studenti delle scuole medie inferiori e superiori. 
-
-[Puoi usarlo qui](https://tagtthespellcaster.github.io/Scriptorium-Arcanum/)
+Piccola storia pratica della crittografia, in un unico file HTML: cinque cifrari da provare con le mani, pensati per studenti delle scuole medie inferiori e superiori. Nasce dal «Cifrario di Polibio dinamico» fornito dall'autore (versione 0.9), di cui conserva stile, colori e font. Fa parte della serie OFFICINA DEGLI ENIGMI (Machina N° 013, numero assegnato da Claude). Non è steampunk: nel piè di pagina compaiono «OFFICINA DEGLI ENIGMI · Machina N° 013» e «VERSIONE 1.0.2», senza anno.
 
 ## Contenuto
 
@@ -48,8 +46,10 @@ Aprire `scriptorium-arcanum.html` in un browser moderno. Nessuna dipendenza, nes
 
 ## Cronologia delle versioni
 
+- **0.9**: «Cifrario di Polibio dinamico» fornito dall'autore.
 - **1.0**: nome Scriptorium Arcanum, cinque schede, tutorial a passi, esercizi, salvataggio, file autonomo.
 - **1.0.1**: pagina meno alta (storia richiudibile, campi più bassi), tutorial fisso in alto, «Mostra» porta a «Dietro le quinte», riga chiaro/cifrato nei passaggi.
+- **1.0.2**: piè di pagina della serie (Officina degli Enigmi, Machina N° 013, «Versione»).
 
 ## Verifiche
 
@@ -71,4 +71,4 @@ Non implementato: esercizi di cifratura (gli esercizi attuali chiedono solo di d
 Da definire con l'autore.
 
 ---
-SCRIPTORIUM ARCANUM · Cinque cifrari da provare con le mani · BREVETTO MECCANICO 1.0.1
+OFFICINA DEGLI ENIGMI · Machina N° 013 · VERSIONE 1.0.2
