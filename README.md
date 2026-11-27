@@ -4,7 +4,9 @@
 ![Formato](https://img.shields.io/badge/formato-HTML%20singolo-lightgrey)
 ![Rete](https://img.shields.io/badge/rete-non%20necessaria-lightgrey)
 
-Piccola storia pratica della crittografia, in un unico file HTML: cinque cifrari da provare con le mani, pensati per studenti delle scuole medie inferiori e superiori. Nasce dal «Cifrario di Polibio dinamico» fornito dall'autore (versione 0.9), di cui conserva stile, colori e font. Fa parte della serie OFFICINA DEGLI ENIGMI (Machina N° 013, numero assegnato da Claude). Non è steampunk: nel piè di pagina compaiono «OFFICINA DEGLI ENIGMI · Machina N° 013» e «VERSIONE 1.0.2», senza anno.
+Piccola storia pratica della crittografia, in un unico file HTML: cinque cifrari da provare con le mani, pensati per studenti delle scuole medie inferiori e superiori.
+
+[Puoi usarlo qui](https://tagtthespellcaster.github.io/Scriptorium-Arcanum/)
 
 ## Contenuto
 
@@ -38,15 +40,15 @@ I risultati degli esercizi e l'ultima scheda aperta restano nel browser (`localS
 - **ADFGVX**: ogni carattere diventa riga+colonna (A D F G V X). Le coppie si scrivono in righe sotto la parola chiave; le colonne si leggono in ordine alfabetico delle lettere della parola (a parità, da sinistra). Output a gruppi di 5 lettere. Spazi e punteggiatura sono scartati. Parola chiave di trasposizione obbligatoria.
 - **Bifido**: per ogni blocco si scrivono le righe di tutte le lettere, poi le colonne; la sequenza si rilegge a coppie. Solo lettere. Chi decifra deve usare lo stesso quadrato e lo stesso periodo.
 - **Nichilista**: numero della lettera (11–55) più numero della lettera chiave, ripetuta; il cifrato è una serie di numeri tra 22 e 110. In decifratura un risultato fuori da 11–55 compare come «?».
-- **Polibio** (strumento originale): coppie riga-colonna; doppio spazio fra le parole.
+- **Polibio**: coppie riga-colonna; doppio spazio fra le parole.
 
 ## Uso
 
-Aprire `scriptorium-arcanum.html` in un browser moderno. Nessuna dipendenza, nessuna rete: CSS (Tailwind compilato) e font (Cinzel, Cormorant Garamond, IM Fell English SC, sottoinsieme latino) sono incorporati. Dimensione circa 430 KB.
+Aprire `index.html` in un browser moderno. Nessuna dipendenza, nessuna rete: CSS (Tailwind compilato) e font (Cinzel, Cormorant Garamond, IM Fell English SC, sottoinsieme latino) sono incorporati. Dimensione circa 430 KB.
 
 ## Cronologia delle versioni
 
-- **0.9**: «Cifrario di Polibio dinamico» fornito dall'autore.
+- **0.9**: versione preliminare.
 - **1.0**: nome Scriptorium Arcanum, cinque schede, tutorial a passi, esercizi, salvataggio, file autonomo.
 - **1.0.1**: pagina meno alta (storia richiudibile, campi più bassi), tutorial fisso in alto, «Mostra» porta a «Dietro le quinte», riga chiaro/cifrato nei passaggi.
 - **1.0.2**: piè di pagina della serie (Officina degli Enigmi, Machina N° 013, «Versione»).
@@ -68,7 +70,7 @@ Non implementato: esercizi di cifratura (gli esercizi attuali chiedono solo di d
 
 ## Licenza
 
-Da definire con l'autore.
+Questo progetto è rilasciato sotto la licenza GNU Affero General Public License 3.0. Leggi il file LICENSE per riferimento.
 
 ---
 OFFICINA DEGLI ENIGMI · Machina N° 013 · VERSIONE 1.0.2
