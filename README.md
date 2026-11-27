@@ -48,7 +48,6 @@ Aprire `scriptorium-arcanum.html` in un browser moderno. Nessuna dipendenza, nes
 
 ## Cronologia delle versioni
 
-- **0.9**: «Cifrario di Polibio dinamico» fornito dall'autore.
 - **1.0**: nome Scriptorium Arcanum, cinque schede, tutorial a passi, esercizi, salvataggio, file autonomo.
 - **1.0.1**: pagina meno alta (storia richiudibile, campi più bassi), tutorial fisso in alto, «Mostra» porta a «Dietro le quinte», riga chiaro/cifrato nei passaggi.
 
