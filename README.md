@@ -4,7 +4,7 @@
 ![Formato](https://img.shields.io/badge/formato-HTML%20singolo-lightgrey)
 ![Rete](https://img.shields.io/badge/rete-non%20necessaria-lightgrey)
 
-Piccola storia pratica della crittografia, in un unico file HTML: cinque cifrari da provare con le mani, pensati per studenti delle scuole medie inferiori e superiori. Nasce dal «Cifrario di Polibio dinamico» fornito dall'autore (versione 0.9), di cui conserva stile, colori e font. Non fa parte della serie OFFICINA DEGLI ENIGMI: il piè di pagina riporta solo il titolo e «BREVETTO MECCANICO 1.0.1», senza numero di Machina né anno.
+Piccola storia pratica della crittografia, in un unico file HTML: cinque cifrari da provare con le mani, pensati per studenti delle scuole medie inferiori e superiori. 
 
 [Puoi usarlo qui](https://tagtthespellcaster.github.io/Scriptorium-Arcanum/)
 
